@@ -5,6 +5,7 @@ Design and simulate gray to binary converter using Verilog.
 
 ## EQUIPMENTS REQUIRED:
 1.Hardware – PCs, Cyclone II , USB flasher
+
 2.Software – Quartus prime
 
 ## THEORY:
@@ -63,11 +64,11 @@ module assign1(
 endmodule
 ```
 ## NETLIST DIAGRAM:
-![DE S-2](https://github.com/Nandhakumar1313/Simulation-project--Digital-Electronics/assets/120230694/6e40927a-d37c-4367-8060-e8b3d9e27a2b)
+![DE S-2](https://github.com/Nandhakumar1313/Simulation-project--Digital-Electronics/assets/120230694/7d16dfae-b04c-4d54-8e2c-22bd52cc8683)
+
 
 ## TIMING DIAGRAM:
-![DE S-3](https://github.com/Nandhakumar1313/Simulation-project--Digital-Electronics/assets/120230694/7c946f17-d808-4e60-8c5a-ee14412bd309)
-
+![DE S-3](https://github.com/Nandhakumar1313/Simulation-project--Digital-Electronics/assets/120230694/8322663f-3e60-49aa-9f4a-9d9c5aacd11c)
 
 
 ## RESULT :
